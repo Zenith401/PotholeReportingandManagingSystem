@@ -1,0 +1,124 @@
+ExifTool Version Number         : 13.00
+File Name                       : GX011118_1080.MP4
+Directory                       : /Applications/XAMPP/xamppfiles/htdocs/PRS/nimda/pages/qgis/data/videos/GX011118_1080
+File Size                       : 12 MB
+File Modification Date/Time     : 2024:11:22 10:32:05-08:00
+File Access Date/Time           : 2024:11:22 10:32:05-08:00
+File Inode Change Date/Time     : 2024:11:22 10:32:05-08:00
+File Permissions                : -rw-r--r--
+File Type                       : MP4
+File Type Extension             : mp4
+MIME Type                       : video/mp4
+Major Brand                     : MP4 Base Media v1 [IS0 14496-12:2003]
+Minor Version                   : 0.2.0
+Compatible Brands               : isom, iso2, mp41
+Media Data Size                 : 11640611
+Media Data Offset               : 44
+Movie Header Version            : 0
+Create Date                     : 0000:00:00 00:00:00
+Modify Date                     : 0000:00:00 00:00:00
+Time Scale                      : 1000
+Duration                        : 10.85 s
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 4
+Track Header Version            : 0
+Track Create Date               : 0000:00:00 00:00:00
+Track Modify Date               : 0000:00:00 00:00:00
+Track ID                        : 1
+Track Duration                  : 10.85 s
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Image Width                     : 1920
+Image Height                    : 1080
+Time Code                       : 3
+Media Header Version            : 0
+Media Create Date               : 0000:00:00 00:00:00
+Media Modify Date               : 0000:00:00 00:00:00
+Media Time Scale                : 120000
+Media Duration                  : 10.84 s
+Media Language Code             : eng
+Handler Type                    : Video Track
+Handler Description             : GoPro H.265
+Graphics Mode                   : srcCopy
+Op Color                        : 0 0 0
+Compressor ID                   : hev1
+Source Image Width              : 1920
+Source Image Height             : 1080
+X Resolution                    : 72
+Y Resolution                    : 72
+Compressor Name                 : Lavc61.19.100 hevc_videotoolbox
+Bit Depth                       : 24
+Video Field Order               : Progressive; 0
+Color Profiles                  : nclx
+Color Primaries                 : BT.709
+Transfer Characteristics        : BT.709
+Matrix Coefficients             : BT.709
+Video Full Range Flag           : 1
+Pixel Aspect Ratio              : 1:1
+Buffer Size                     : 0
+Max Bitrate                     : 8459765
+Average Bitrate                 : 8459765
+Video Frame Rate                : 119.88
+Track Header Version            : 0
+Track Create Date               : 0000:00:00 00:00:00
+Track Modify Date               : 0000:00:00 00:00:00
+Track ID                        : 2
+Track Duration                  : 10.84 s
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Media Header Version            : 0
+Media Create Date               : 0000:00:00 00:00:00
+Media Modify Date               : 0000:00:00 00:00:00
+Media Time Scale                : 48000
+Media Duration                  : 10.86 s
+Media Language Code             : eng
+Handler Type                    : Audio Track
+Handler Description             : GoPro AAC
+Balance                         : 0
+Audio Format                    : mp4a
+Audio Channels                  : 2
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 48000
+Buffer Size                     : 0
+Max Bitrate                     : 128000
+Average Bitrate                 : 127617
+Track Header Version            : 0
+Track Create Date               : 0000:00:00 00:00:00
+Track Modify Date               : 0000:00:00 00:00:00
+Track ID                        : 3
+Track Duration                  : 10.85 s
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Media Header Version            : 0
+Media Create Date               : 0000:00:00 00:00:00
+Media Modify Date               : 0000:00:00 00:00:00
+Media Time Scale                : 120000
+Media Duration                  : 10.84 s
+Handler Type                    : Time Code
+Handler Description             : GoPro H.265
+Other Format                    : tmcd
+Playback Frame Rate             : 119.8801199
+Handler Type                    : Metadata
+Handler Vendor ID               : Apple
+Encoder                         : Lavf61.7.100
+Location Information            : (none) Role=shooting Lat=39.74030 Lon=-121.80019 Alt=0.00 Body=earth Notes=
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+Avg Bitrate                     : 8.59 Mbps
+GPS Altitude                    : 0 m
+GPS Altitude Ref                : Above Sea Level
+GPS Latitude                    : 39 deg 44' 25.08" N
+GPS Longitude                   : 121 deg 48' 0.68" W
+Rotation                        : 0
+GPS Position                    : 39 deg 44' 25.08" N, 121 deg 48' 0.68" W

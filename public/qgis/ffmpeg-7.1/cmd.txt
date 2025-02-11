@@ -1,0 +1,12 @@
+AFTER BUILDING FFMPEG FROM SOURCE WE CAN RUN THE FOLLOWING COMMAND
+
+./ffmpeg -i ../GX010018.MP4 -vf fps=1 ../GX_thumbnails_test1/out%d.png
+	    //DIR OF VIDEO            //THUMBNAIL DIR
+
+This command creates a thumbnail for each second in the video
+For example our file above is 17.XX secs long so we have 18 screenshots 
+1 -> 0 sec
+18 -> 17 sec
+
+WE WILL NEED TO VERIFY THIS WITH OTHER VIDEO FORMATS TO ENSURE WHEN A CUSTOMER UPLOADS THEY HAVE NO ISSUES
+WETHER THEY UPLOAD WITH A GOPRO, IPHONE, or ANDROID

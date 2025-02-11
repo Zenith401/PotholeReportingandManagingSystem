@@ -1,0 +1,11 @@
+// Required files for Laravel
+npm run
+
+// Start the PHP sever
+php -S localhost:8000
+
+// Start  mysql server
+sudo /Applications/XAMPP/xamppfiles/bin/mysql.server start
+
+// Start apache sever 
+sudo /Applications/XAMPP/xamppfiles/bin/apachectl start

@@ -1,0 +1,144 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.84193888888889,
+                    39.73025555555556
+                ]
+            },
+            "properties": {
+                "altitude": "62.696 m",
+                "speed": "5.692"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.79292222222222,
+                    39.74624444444444
+                ]
+            },
+            "properties": {
+                "altitude": "74.169 m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.84193888888889,
+                    39.73025555555556
+                ]
+            },
+            "properties": {
+                "altitude": "62.696 m",
+                "speed": "5.692"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.84193888888889,
+                    39.73025555555556
+                ]
+            },
+            "properties": {
+                "altitude": "62.696 m",
+                "speed": "5.692"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.84193888888889,
+                    39.73025555555556
+                ]
+            },
+            "properties": {
+                "altitude": "62.696 m",
+                "speed": "5.692"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.84193888888889,
+                    39.73025555555556
+                ]
+            },
+            "properties": {
+                "altitude": "62.696 m",
+                "speed": "5.692"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8047111111111,
+                    39.73818055555556
+                ]
+            },
+            "properties": {
+                "altitude": "67.349 m",
+                "speed": "3.337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8047111111111,
+                    39.73818055555556
+                ]
+            },
+            "properties": {
+                "altitude": "67.349 m",
+                "speed": "3.337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8047111111111,
+                    39.73818055555556
+                ]
+            },
+            "properties": {
+                "altitude": "67.349 m",
+                "speed": "3.337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8047111111111,
+                    39.73818055555556
+                ]
+            },
+            "properties": {
+                "altitude": "67.349 m",
+                "speed": "3.337"
+            }
+        }
+    ]
+}
